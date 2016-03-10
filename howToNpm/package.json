@@ -1,0 +1,17 @@
+{
+  "name": "mwhowtonpm",
+  "version": "1.0.0",
+  "description": "this is for my howToNpm app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathyouwheeler/"
+  },
+  "author": "Mwheeler",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
