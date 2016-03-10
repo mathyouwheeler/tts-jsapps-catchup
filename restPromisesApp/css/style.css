@@ -1,0 +1,29 @@
+* {
+	font-family: sans-serif;
+}
+
+a {
+	color: lightblue;
+	cursor: pointer;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.login_error {
+	color: red;
+}
+
+.user_homepage,
+.post_view {
+	display: none;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+li:first-child {
+	list-style-type: none;
+}
